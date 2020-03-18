@@ -1,1 +1,1 @@
-# Secret Sharing | [Download PDF](https://github.com/hhontheim/secret-sharing/raw/master/secret-sharing.pdf)
+# Secret Sharing | [Download PDF](https://secret-sharing.honthe.im/secret-sharing.pdf)
